@@ -89,4 +89,7 @@ int main()
     {
         cout << "You have chosen (3)!" << endl;
     }
+
+    cout << "\nPress Enter to continue..!";
+    getchar();
 }
